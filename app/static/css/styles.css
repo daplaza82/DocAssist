@@ -1,0 +1,74 @@
+/* Estilos generales */
+.text-content {
+    @apply bg-gray-50 p-4 rounded-md text-gray-700 leading-relaxed;
+}
+
+/* Estilos para el input de archivo */
+.file-input-container {
+    @apply relative border-2 border-dashed border-gray-300 rounded-lg p-4 
+           hover:border-blue-500 transition-colors duration-200;
+}
+
+.file-input {
+    @apply w-full px-4 py-2 text-gray-700 bg-white border rounded-md 
+           focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+
+/* Efectos de hover y focus para elementos interactivos */
+button:hover {
+    @apply transform scale-105 transition-transform duration-200;
+}
+
+input:focus {
+    @apply outline-none ring-2 ring-blue-500;
+}
+
+/* Animaciones */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#results-section {
+    animation: fadeIn 0.3s ease-in;
+}
+
+/* Estilos responsivos */
+@media (max-width: 640px) {
+    .question-container {
+        @apply flex-col;
+    }
+    
+    .question-button {
+        @apply w-full mt-2;
+    }
+}
+
+/* Mejoras visuales para elementos específicos */
+#summary, #key-points, #answer {
+    @apply bg-gray-50 p-4 rounded-md border border-gray-200 
+           leading-relaxed text-gray-700;
+}
+
+#answer {
+    @apply bg-blue-50 border-blue-200;
+}
+
+.loading-indicator {
+    @apply flex flex-col items-center justify-center py-8;
+}
+
+/* Alertas */
+.alert-success {
+    @apply bg-green-100 text-green-800 border-l-4 border-green-500;
+}
+
+.alert-error {
+    @apply bg-red-100 text-red-800 border-l-4 border-red-500;
+}

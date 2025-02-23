@@ -1,0 +1,14 @@
+# Framework web
+Flask==3.0.2
+Werkzeug==3.0.1
+
+# Azure y AI
+azure-storage-blob==12.19.0
+openai==0.28.1
+azure-cognitiveservices-language-textanalytics==0.2.0
+
+# Procesamiento de PDF
+PyPDF2==3.0.1
+
+# Utilidades
+python-dotenv==1.0.1
