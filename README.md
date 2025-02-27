@@ -137,7 +137,7 @@ DocAssist/
 
 ## Licencia
 
-Este proyecto está licenciado bajo [Especificar Licencia]
+Este proyecto está licenciado bajo el archivo de locencia `LICENSE.md`
 
 ## Contacto
 

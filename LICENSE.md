@@ -1,0 +1,23 @@
+# MIT License (Adaptada para Uso Educativo)
+
+Copyright (c) 2025 DocAssist Academic
+
+Por la presente se concede permiso, libre de cargos, a cualquier persona que obtenga una copia
+de este software y de los archivos de documentación asociados (el "Software"), para utilizar
+el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, 
+fusionar, publicar, distribuir, sublicenciar, y/o vender copias del Software, y a permitir a 
+las personas a las que se les proporcione el Software a hacer lo mismo, sujeto a las siguientes 
+condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes 
+sustanciales del Software.
+
+**Cláusula Educativa Adicional:**
+Se anima especialmente al uso de este software con fines educativos, incluyendo:
+1. Uso en instituciones educativas para enseñanza y aprendizaje
+2. Uso por parte de estudiantes para proyectos académicos
+3. Adaptación y extensión con propósitos de investigación académica
+
+Este software se proporciona como está, sin garantía de ningún tipo, expresa o implícita, pero no limitando a garantías de comercialización, idoneidad para un propósito particular. En ningún caso los autores o titulares del copyright serán responsables de ninguna
+reclamación, daños u otras responsabilidades, ya sea en una acción de contrato, agravio o cualquier
+otro motivo, con o sin relación con el software o el uso u otros tratos en el software.
