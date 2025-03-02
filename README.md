@@ -135,12 +135,27 @@ DocAssist/
    - Ajustar los prompts en la configuración del modelo
    - Considerar el uso de modelos más avanzados para contenido complejo
 
+
+## Autores
+
+* David Plaza C - https://github.com/daplaza82
+
+
 ## Licencia
 
-Este proyecto está licenciado bajo el archivo de locencia `LICENSE.md`
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+
+
+## Agradecimientos
+
+* [UAO](https://www.uao.edu.co/) - Universidad Autónoma de Occidente
+* Jan Polanco Velasco/Docente
+
 
 ## Contacto
 
-[David Plaza] - [daplaza82@gmail.com]
+David Plaza C -  daplaza82@gmail.com
 
 Enlace del Proyecto: [https://github.com/daplaza82/DocAssist](https://github.com/daplaza82/DocAssist)
+
+
