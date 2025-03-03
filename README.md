@@ -137,6 +137,16 @@ DocAssist/
    - Ajustar los prompts en la configuración del modelo
    - Considerar el uso de modelos más avanzados para contenido complejo
 
+# ---- ACTUALIZACIÓN --------
+```bash
+Debido a que el entorno de Azure donde se ejecuta la prueba es desde una cuenta estudiante, GPT 3.5 Turbo no funciona a su total capacidad; éste está sujeto a las siguientes Limitaciones del Modelo:
+
+  - Longitud máxima de entrada: 1,000 tokens aproximadamente  por minuto (TPM).
+  - Tiempo de respuesta variable según la carga del servicio.
+
+Bajo estas condiciones, para un correcto desempeño de la prueba; solo se podrian emplear archivos PDF con un maximo de 900 palabras, sin embargo con una cuenta Azure diferente a Estudiante el comportamiento seria optimo.
+Dentro del proyecto se adjunta el archivo denominado [prueba_doc.pdf].
+  ```
 
 ## Autores
 
