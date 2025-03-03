@@ -12,6 +12,8 @@ El análisis de documentos académicos es una tarea fundamental pero que consume
 - **Interfaz Intuitiva**: Experiencia de usuario simple y accesible
 - **Soporte para PDF**: Procesamiento de documentos académicos en formato PDF
 
+![Entorno Principal](app/templates/inicio01.png)
+![Resultado de Ejecucion](app/templates/inicio02.png)
 
 ## Tecnologías Utilizadas
 - **Backend**: Python 3.11, Flask
